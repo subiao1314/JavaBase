@@ -57,6 +57,8 @@ public class ArrayDemo {
 		// strArrary[5]="FF";
 		for (String string : strArrary) {
 			out.println(string);
+			
+			
 		}
 
 	}
